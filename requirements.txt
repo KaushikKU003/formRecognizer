@@ -2,3 +2,4 @@ Flask==2.0.2
 azure-ai-formrecognizer==3.3.3
 azure-core==1.23.0
 gunicorn==21.2.0
+Werkzeug==2.0.3
